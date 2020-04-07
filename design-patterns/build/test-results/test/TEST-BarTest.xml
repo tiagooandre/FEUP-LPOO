@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BarTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-03-23T16:06:13" hostname="MacBook-Pro-de-Tiago.local" time="0.28">
+  <properties/>
+  <testcase name="happyHour" classname="BarTest" time="0.0"/>
+  <testcase name="impatientStrategy" classname="BarTest" time="0.001"/>
+  <testcase name="removeObserver" classname="BarTest" time="0.271"/>
+  <testcase name="smartStrategyStartClosed" classname="BarTest" time="0.0"/>
+  <testcase name="smartStrategyStartOpened" classname="BarTest" time="0.0"/>
+  <testcase name="addObserver" classname="BarTest" time="0.005"/>
+  <testcase name="orderStringRecipe" classname="BarTest" time="0.0"/>
+  <testcase name="ferengiStartClosed" classname="BarTest" time="0.001"/>
+  <testcase name="ferengiAlreadyOpened" classname="BarTest" time="0.0"/>
+  <testcase name="romulan" classname="BarTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
