@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9bf3775-4d0f-4b17-af98-37fa1992b5d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YcbLKXOZy4hJzbNs4vadJNqn4L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.ListAggregatorTest">
+    <configuration name="ListAggregatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.aor.numbers.ListAggregatorTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ListAggregatorTest.bug2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.aor.numbers.ListAggregatorTest.bug2&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ListDeduplicatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.aor.numbers.ListDeduplicatorTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ListSorterTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.aor.numbers.ListSorterTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'numbers.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ListAggregatorTest" />
+        <item itemvalue="Gradle.ListAggregatorTest.bug2" />
+        <item itemvalue="Gradle.Tests in 'numbers.test'" />
+        <item itemvalue="Gradle.ListSorterTest" />
+        <item itemvalue="Gradle.ListDeduplicatorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9bf3775-4d0f-4b17-af98-37fa1992b5d1" name="Default Changelist" comment="" />
+      <created>1583244772552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583244772552</updated>
+      <workItem from="1583244774096" duration="573000" />
+      <workItem from="1583247853091" duration="3269000" />
+      <workItem from="1583678471328" duration="1480000" />
+      <workItem from="1583786469501" duration="1400000" />
+      <workItem from="1583788996696" duration="1184000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="976" height="185" key="GridCell.Tab.0.bottom" timestamp="1583790456541">
+      <screen x="0" y="23" width="1680" height="985" />
+    </state>
+    <state width="796" height="191" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1583787756338" />
+    <state width="976" height="185" key="GridCell.Tab.0.bottom/0.23.1680.985@0.23.1680.985" timestamp="1583790456541" />
+    <state width="976" height="185" key="GridCell.Tab.0.center" timestamp="1583790456541">
+      <screen x="0" y="23" width="1680" height="985" />
+    </state>
+    <state width="796" height="191" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1583787756336" />
+    <state width="976" height="185" key="GridCell.Tab.0.center/0.23.1680.985@0.23.1680.985" timestamp="1583790456541" />
+    <state width="976" height="185" key="GridCell.Tab.0.left" timestamp="1583790456540">
+      <screen x="0" y="23" width="1680" height="985" />
+    </state>
+    <state width="796" height="191" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1583787756336" />
+    <state width="976" height="185" key="GridCell.Tab.0.left/0.23.1680.985@0.23.1680.985" timestamp="1583790456540" />
+    <state width="976" height="185" key="GridCell.Tab.0.right" timestamp="1583790456541">
+      <screen x="0" y="23" width="1680" height="985" />
+    </state>
+    <state width="796" height="191" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1583787756337" />
+    <state width="976" height="185" key="GridCell.Tab.0.right/0.23.1680.985@0.23.1680.985" timestamp="1583790456541" />
+    <state x="196" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1583786469822">
+      <screen x="0" y="23" width="1680" height="985" />
+    </state>
+    <state x="196" y="347" key="com.intellij.ide.util.TipDialog/0.23.1680.985@0.23.1680.985" timestamp="1583786469822" />
+    <state x="182" y="240" width="670" height="676" key="search.everywhere.popup" timestamp="1583249733382">
+      <screen x="0" y="23" width="1680" height="985" />
+    </state>
+    <state x="182" y="240" width="670" height="676" key="search.everywhere.popup/0.23.1680.985@0.23.1680.985" timestamp="1583249733382" />
+  </component>
+</project>
